@@ -40,7 +40,7 @@ for (let i = 0; i < carts.length; i++) {
         calcCount()
         // console.log(basket);
         // totalCost(basket)
-
+        
 
     })
     
